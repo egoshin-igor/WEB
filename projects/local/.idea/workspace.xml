@@ -195,7 +195,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.PHP" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
@@ -239,11 +239,12 @@
       <workItem from="1523090974053" duration="1196000" />
       <workItem from="1523552473973" duration="5287000" />
       <workItem from="1523697833376" duration="3004000" />
+      <workItem from="1527578167271" duration="115000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="83182000" />
+    <option name="totallyTimeSpent" value="83297000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1378" height="754" extended-state="0" />
@@ -566,7 +567,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="121" column="47" lean-forward="false" selection-start-line="121" selection-start-column="47" selection-end-line="121" selection-end-column="47" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -574,7 +574,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="515">
           <caret line="60" column="1" lean-forward="true" selection-start-line="60" selection-start-column="1" selection-end-line="60" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>

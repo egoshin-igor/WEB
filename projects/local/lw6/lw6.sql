@@ -41,7 +41,7 @@ WHERE production_year = 2010
 ORDER BY title;
 
 -- 5
-SELECT DISTINCT dvd.title FROM offer
+SELECT offer.offer_id, dvd.title FROM offer
 LEFT JOIN dvd ON offer.dvd_id = dvd.dvd_id
 WHERE
 	NOW() BETWEEN offer.offer_date and offer.return_date
